@@ -1,0 +1,2 @@
+0001|escarabjo|4|2|turismo|0001
+0002|camaro|4|2|deportivo|0002

@@ -1,0 +1,2 @@
+0001|Zetec|Diesel|2.0|220Hp|180Nm
+0002|Hemi|Nafta|4.2|500Hp|430Nm
